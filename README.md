@@ -43,7 +43,7 @@
 
 - **Run Application on Local machine** -> 
   You can clone this in your local machine using this in your terminal -
-  - git clone https://github.com/aditya-rane-miq/Bridge-Dashboard.git
+  - git clone https://github.com/PoojaN50/HackIQ-Time-for-AI.git
   - cd Bridge-Dashboard
   - create virtual venv
   - pip install -r requirements.txt
